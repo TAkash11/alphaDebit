@@ -2,7 +2,7 @@
 
 1. Take Git Clone
 2. Run the `npm install`
-3. Create the ENV file and Add the below key into that
+3. Create/Update the ENV file and Add the below key into that
         a. NODE_ENV
         b.PORT
         c.JWT_SECRET_KEY(You can set string value)
